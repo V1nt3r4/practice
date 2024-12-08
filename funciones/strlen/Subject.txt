@@ -1,0 +1,20 @@
+Escribir un programa que lea una cadena de caracteres del usuario e imprima la longitud de la cadena usando strlen.
+
+Crear un programa que solicite al usuario ingresar un número indefinido de cadenas hasta que ingrese "salir". Para cada cadena ingresada, mostrar su longitud.
+
+Escribir un programa que compare la longitud de dos cadenas ingresadas por el usuario e imprima cuál es la más larga.
+
+Desarrollar un programa que reciba un array de cadenas y determine la longitud de la cadena más corta.
+
+Crear un programa que calcule la longitud total de un array de cadenas y la imprima.
+
+Escribir un programa que invierta una cadena ingresada por el usuario. Para esto, primero utilice strlen para determinar la longitud de la cadena.
+
+Desarrollar un programa que reciba una frase y cuente el número de palabras en ella. Para simplificar, asuma que las palabras están separadas por un solo espacio. Use strlen para calcular la longitud de la frase.
+
+Crear un programa que solicite al usuario ingresar una frase y luego imprima la longitud de la frase sin contar los espacios.
+
+Escribir un programa que reciba un array de cadenas y genere un nuevo array donde cada cadena es la reversión de la cadena original. Use strlen para ayudar a determinar la longitud de cada cadena.
+
+Desarrollar un programa que solicite al usuario ingresar una frase y luego imprima la longitud de la frase más larga en ella. Para simplificar, asuma que las palabras están separadas por un solo espacio.
+
