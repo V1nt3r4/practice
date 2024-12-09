@@ -1,0 +1,9 @@
+//Escribir un programa que pida al usuario que ingrese una cadena y luego imprima la longitud de esa cadena
+
+int main() {
+	char c[100];
+	int i;
+
+}
+
+
